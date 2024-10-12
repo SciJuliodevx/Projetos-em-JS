@@ -1,2 +1,2 @@
 # Projetos-em-JS
-Arquivo comProjetos desenvolvidos em HTML3, CSS e JavaScript 
+Arquivo com Projetos desenvolvidos em HTML3, CSS e JavaScript 
